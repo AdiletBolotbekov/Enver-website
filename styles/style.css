@@ -205,6 +205,24 @@ h1 {
 .contact-us {
   margin-top: 100px;
 }
+.arrows {
+  display: none;
+  justify-content: center;
+  gap: 12px;
+}
+
+.arrows .active {
+  background-color: var(--secondary-color);
+}
+.arrrow {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .contact-us .wrapper {
   display: flex;
