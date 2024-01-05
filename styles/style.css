@@ -238,3 +238,6 @@ h1 {
 footer {
   margin: 100px 0;
 }
+.nav-menu {
+  display: none;
+}
