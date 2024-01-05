@@ -1,0 +1,18 @@
+:root {
+  --headers-family: "Open Sans", sans-serif;
+  --main-family: "Nunito Sans", sans-serif;
+
+  --main-bg-color: #19191b;
+
+  --main-color: #cbc8c8;
+  --secondary-color: #5454d4;
+  --white-color: #fff;
+
+  --main-spacing: -0.66px;
+
+  --main-size: 20px;
+  --section-title-size: 60px;
+  --services-title-size: 20px;
+  --nav-size: 18px;
+  --dot-black: black;
+}
